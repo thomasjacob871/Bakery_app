@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830988341067",
+    "project_id": "sucre-log-reg",
+    "storage_bucket": "sucre-log-reg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830988341067:android:1a292c28d07e02e3f822ce",
+        "android_client_info": {
+          "package_name": "com.example.sucre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830988341067-831q033gqq0ivecf45k70vn8chdn2f7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqEB7-f9q3-rhAk5IM3zdOV9l44JGPOCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830988341067-831q033gqq0ivecf45k70vn8chdn2f7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
